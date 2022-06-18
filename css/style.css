@@ -263,7 +263,7 @@ hr{
 	border-top: 2px solid silver;
 	margin: 20px 0; /*высота и ширина*/
 	float: left;
-	background: url(img/fon2.jpg) repeat-x center;
+	background: url(../img/fon2.jpg) repeat-x center;
 	height: 150px;
 }
 
